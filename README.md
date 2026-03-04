@@ -1,2 +1,3 @@
-# sc200-notes
-SC-200 Exam Notes
+# Microsoft SC-200 Exam Notes
+
+- [Security Operations Center](01-security-operations-center.md)
